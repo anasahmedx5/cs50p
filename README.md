@@ -1,1 +1,1 @@
-# CS50P
+This repository features my solutions to the CS50P problem sets, highlighting my progress in learning Python. It covers key programming concepts such as loops, functions, file handling, object-oriented programming, and more. Each solution reflects my understanding and application of these concepts through practical problem-solving.
