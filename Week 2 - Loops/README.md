@@ -1,5 +1,3 @@
-# CS50P - Problem Set 2
-
 ## `camel.py`
 Converts a variable name from **camelCase** to **snake_case**.
 
